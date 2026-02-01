@@ -1,4 +1,4 @@
-name: RDP
+name: 6 Hours Internet Cafe
 on:
   workflow_dispatch:
 jobs:
